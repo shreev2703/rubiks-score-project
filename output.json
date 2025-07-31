@@ -1,0 +1,845 @@
+[
+  {
+    "personId": 70,
+    "name": "Miguel Diaz",
+    "wcaId": "2015DIAZ02",
+    "totalScore": 1202.7,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 1196,
+        "newTime": 1137,
+        "score": 18.78
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 1051,
+        "newTime": 997,
+        "score": 17.11
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 8475,
+        "newTime": 7859,
+        "score": 83.91
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 7428,
+        "newTime": 6971,
+        "score": 59.2
+      },
+      {
+        "eventId": "666",
+        "format": "average",
+        "oldTime": 21083,
+        "newTime": 14647,
+        "score": 503.95
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 20469,
+        "newTime": 13154,
+        "score": 519.76
+      }
+    ]
+  },
+  {
+    "personId": 66,
+    "name": "Roei Hammel",
+    "wcaId": "2022HAMM02",
+    "totalScore": 814.58,
+    "improvements": [
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6401,
+        "newTime": 6215,
+        "score": 35.28
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 5970,
+        "newTime": 5709,
+        "score": 51.87
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6401,
+        "newTime": 6212,
+        "score": 36.24
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 5970,
+        "newTime": 5652,
+        "score": 64.3
+      },
+      {
+        "eventId": "666",
+        "format": "average",
+        "oldTime": 13890,
+        "newTime": 12803,
+        "score": 117.18
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 12841,
+        "newTime": 12589,
+        "score": 26.49
+      },
+      {
+        "eventId": "666",
+        "format": "average",
+        "oldTime": 13890,
+        "newTime": 12992,
+        "score": 97.13
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 12841,
+        "newTime": 12426,
+        "score": 44.73
+      },
+      {
+        "eventId": "777",
+        "format": "average",
+        "oldTime": 23424,
+        "newTime": 20109,
+        "score": 248.79
+      },
+      {
+        "eventId": "777",
+        "format": "single",
+        "oldTime": 20225,
+        "newTime": 19011,
+        "score": 92.57
+      }
+    ]
+  },
+  {
+    "personId": 24,
+    "name": "Colin Hartman",
+    "wcaId": "2023HART21",
+    "totalScore": 722.66,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 386,
+        "newTime": 367,
+        "score": 8.78
+      },
+      {
+        "eventId": "222",
+        "format": "single",
+        "oldTime": 264,
+        "newTime": 253,
+        "score": 6.32
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 12704,
+        "newTime": 9748,
+        "score": 284.45
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 11662,
+        "newTime": 8300,
+        "score": 282.27
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 28493,
+        "newTime": 25341,
+        "score": 140.84
+      }
+    ]
+  },
+  {
+    "personId": 67,
+    "name": "Avery Lucas Christian",
+    "wcaId": "2025CHRI09",
+    "totalScore": 576.56,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 9680,
+        "newTime": 5166,
+        "score": 351.41
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 4793,
+        "newTime": 4600,
+        "score": 17.53
+      },
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 1686,
+        "newTime": 1014,
+        "score": 108.79
+      },
+      {
+        "eventId": "222",
+        "format": "single",
+        "oldTime": 1131,
+        "newTime": 672,
+        "score": 98.83
+      }
+    ]
+  },
+  {
+    "personId": 37,
+    "name": "Zane Qureshi",
+    "wcaId": "2020QURE01",
+    "totalScore": 473.93,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "single",
+        "oldTime": 131,
+        "newTime": 109,
+        "score": 30
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6400,
+        "newTime": 5789,
+        "score": 135.15
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 5996,
+        "newTime": 5106,
+        "score": 206.02
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6400,
+        "newTime": 6322,
+        "score": 15.67
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 5996,
+        "newTime": 5570,
+        "score": 87.1
+      }
+    ]
+  },
+  {
+    "personId": 71,
+    "name": "Rahul Bollini",
+    "wcaId": "2023BOLL01",
+    "totalScore": 414.1,
+    "improvements": [
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6352,
+        "newTime": 6117,
+        "score": 47.77
+      },
+      {
+        "eventId": "666",
+        "format": "average",
+        "oldTime": 12961,
+        "newTime": 11720,
+        "score": 152.01
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 12295,
+        "newTime": 10622,
+        "score": 214.32
+      }
+    ]
+  },
+  {
+    "personId": 14,
+    "name": "Brandon Lugtu",
+    "wcaId": "2012LUGT01",
+    "totalScore": 408.12,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 875,
+        "newTime": 796,
+        "score": 47.64
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 5525,
+        "newTime": 5383,
+        "score": 34.46
+      },
+      {
+        "eventId": "777",
+        "format": "average",
+        "oldTime": 23307,
+        "newTime": 20324,
+        "score": 223.33
+      },
+      {
+        "eventId": "777",
+        "format": "single",
+        "oldTime": 20999,
+        "newTime": 19584,
+        "score": 102.69
+      }
+    ]
+  },
+  {
+    "personId": 21,
+    "name": "Tsukasa Sano (佐野司)",
+    "wcaId": "2022SANO02",
+    "totalScore": 299.89,
+    "improvements": [
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6248,
+        "newTime": 5997,
+        "score": 55.52
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 6248,
+        "newTime": 6131,
+        "score": 24.84
+      },
+      {
+        "eventId": "777",
+        "format": "average",
+        "oldTime": 18236,
+        "newTime": 17353,
+        "score": 86.83
+      },
+      {
+        "eventId": "777",
+        "format": "single",
+        "oldTime": 17745,
+        "newTime": 16355,
+        "score": 132.69
+      }
+    ]
+  },
+  {
+    "personId": 89,
+    "name": "Emily Nguyen",
+    "wcaId": "2024NGUY60",
+    "totalScore": 244.58,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 404,
+        "newTime": 383,
+        "score": 9.25
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 4996,
+        "newTime": 4918,
+        "score": 24.22
+      },
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 5512,
+        "newTime": 5171,
+        "score": 125.22
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 4996,
+        "newTime": 4952,
+        "score": 14.13
+      },
+      {
+        "eventId": "777",
+        "format": "single",
+        "oldTime": 16512,
+        "newTime": 15803,
+        "score": 71.75
+      }
+    ]
+  },
+  {
+    "personId": 50,
+    "name": "Elvis Clark",
+    "wcaId": "2022CLAR04",
+    "totalScore": 184.48,
+    "improvements": [
+      {
+        "eventId": "555",
+        "format": "average",
+        "oldTime": 11122,
+        "newTime": 10226,
+        "score": 87.59
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 10433,
+        "newTime": 9280,
+        "score": 96.89
+      }
+    ]
+  },
+  {
+    "personId": 53,
+    "name": "Aaron Siivonen",
+    "wcaId": "2022SIIV01",
+    "totalScore": 176.66,
+    "improvements": [
+      {
+        "eventId": "777",
+        "format": "average",
+        "oldTime": 22776,
+        "newTime": 21333,
+        "score": 109.02
+      },
+      {
+        "eventId": "777",
+        "format": "single",
+        "oldTime": 21389,
+        "newTime": 20411,
+        "score": 67.63
+      }
+    ]
+  },
+  {
+    "personId": 87,
+    "name": "Justin Ma",
+    "wcaId": "2025MAJU01",
+    "totalScore": 169.17,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 3446,
+        "newTime": 2964,
+        "score": 53.16
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 2928,
+        "newTime": 2608,
+        "score": 39.12
+      },
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 1290,
+        "newTime": 1257,
+        "score": 5.45
+      },
+      {
+        "eventId": "222",
+        "format": "single",
+        "oldTime": 1176,
+        "newTime": 820,
+        "score": 71.44
+      }
+    ]
+  },
+  {
+    "personId": 49,
+    "name": "Carl Tsai",
+    "wcaId": "2017TSAI05",
+    "totalScore": 160.89,
+    "improvements": [
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 7984,
+        "newTime": 7389,
+        "score": 68.46
+      },
+      {
+        "eventId": "666",
+        "format": "average",
+        "oldTime": 19273,
+        "newTime": 18154,
+        "score": 81.48
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 17757,
+        "newTime": 17575,
+        "score": 10.95
+      }
+    ]
+  },
+  {
+    "personId": 3,
+    "name": "Ruby Lu (卢红)",
+    "wcaId": "2022LURU01",
+    "totalScore": 146.11,
+    "improvements": [
+      {
+        "eventId": "777",
+        "format": "average",
+        "oldTime": 27605,
+        "newTime": 26459,
+        "score": 69.75
+      },
+      {
+        "eventId": "777",
+        "format": "single",
+        "oldTime": 25632,
+        "newTime": 24243,
+        "score": 76.36
+      }
+    ]
+  },
+  {
+    "personId": 73,
+    "name": "Nehemiah Velici",
+    "wcaId": "2025VELI01",
+    "totalScore": 125.95,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 4740,
+        "newTime": 3791,
+        "score": 86.94
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 3534,
+        "newTime": 3172,
+        "score": 39
+      }
+    ]
+  },
+  {
+    "personId": 84,
+    "name": "Jason Huang",
+    "wcaId": "2024HUAN21",
+    "totalScore": 123.74,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 2217,
+        "newTime": 1718,
+        "score": 84.37
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 1860,
+        "newTime": 1708,
+        "score": 26.48
+      },
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 1071,
+        "newTime": 1003,
+        "score": 12.88
+      }
+    ]
+  },
+  {
+    "personId": 62,
+    "name": "Aiden Ravelo",
+    "wcaId": "2024RAVE02",
+    "totalScore": 61.16,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 2693,
+        "newTime": 2650,
+        "score": 5.46
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 2322,
+        "newTime": 1949,
+        "score": 55.7
+      }
+    ]
+  },
+  {
+    "personId": 33,
+    "name": "Antto Pitkänen",
+    "wcaId": "2017PITK01",
+    "totalScore": 50.15,
+    "improvements": [
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 5612,
+        "newTime": 5388,
+        "score": 50.15
+      }
+    ]
+  },
+  {
+    "personId": 86,
+    "name": "Isaac Ma",
+    "wcaId": "2025MAIS01",
+    "totalScore": 48.4,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 1005,
+        "newTime": 819,
+        "score": 38.78
+      },
+      {
+        "eventId": "222",
+        "format": "single",
+        "oldTime": 822,
+        "newTime": 780,
+        "score": 9.62
+      }
+    ]
+  },
+  {
+    "personId": 31,
+    "name": "Bowen Deng (邓博文)",
+    "wcaId": "2009DENG01",
+    "totalScore": 31.91,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 344,
+        "newTime": 317,
+        "score": 14.45
+      },
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 14340,
+        "newTime": 14126,
+        "score": 17.46
+      }
+    ]
+  },
+  {
+    "personId": 93,
+    "name": "Andres Felipe Mendez Lopez",
+    "wcaId": "2022LOPE20",
+    "totalScore": 29.54,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 1258,
+        "newTime": 1242,
+        "score": 4.6
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 987,
+        "newTime": 978,
+        "score": 3.01
+      },
+      {
+        "eventId": "555",
+        "format": "single",
+        "oldTime": 12422,
+        "newTime": 12092,
+        "score": 21.93
+      }
+    ]
+  },
+  {
+    "personId": 65,
+    "name": "Sidhak Khanuja",
+    "wcaId": "2022KHAN07",
+    "totalScore": 24.25,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 1606,
+        "newTime": 1555,
+        "score": 10.85
+      },
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 1347,
+        "newTime": 1290,
+        "score": 13.4
+      }
+    ]
+  },
+  {
+    "personId": 47,
+    "name": "Alan Nguyen",
+    "wcaId": "2024NGUY01",
+    "totalScore": 17.91,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "single",
+        "oldTime": 4067,
+        "newTime": 3884,
+        "score": 17.91
+      }
+    ]
+  },
+  {
+    "personId": 17,
+    "name": "Tommy Chestnutt",
+    "wcaId": "2022CHES04",
+    "totalScore": 14.09,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "average",
+        "oldTime": 1067,
+        "newTime": 993,
+        "score": 14.09
+      }
+    ]
+  },
+  {
+    "personId": 39,
+    "name": "An Le",
+    "wcaId": "2015LEAN01",
+    "totalScore": 11.25,
+    "improvements": [
+      {
+        "eventId": "666",
+        "format": "single",
+        "oldTime": 9455,
+        "newTime": 9388,
+        "score": 11.25
+      }
+    ]
+  },
+  {
+    "personId": 69,
+    "name": "Ya Sin Hasan",
+    "wcaId": "2023HASA02",
+    "totalScore": 10.78,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 1186,
+        "newTime": 1152,
+        "score": 10.78
+      }
+    ]
+  },
+  {
+    "personId": 48,
+    "name": "Stanley Tran",
+    "wcaId": "2019TRAN04",
+    "totalScore": 8.88,
+    "improvements": [
+      {
+        "eventId": "777",
+        "format": "average",
+        "oldTime": 24764,
+        "newTime": 24631,
+        "score": 8.88
+      }
+    ]
+  },
+  {
+    "personId": 16,
+    "name": "Luke Chestnutt",
+    "wcaId": "2022CHES03",
+    "totalScore": 6.84,
+    "improvements": [
+      {
+        "eventId": "666",
+        "format": "average",
+        "oldTime": 16983,
+        "newTime": 16881,
+        "score": 6.84
+      }
+    ]
+  },
+  {
+    "personId": 45,
+    "name": "Brendan White",
+    "wcaId": "2015WHIT03",
+    "totalScore": 5.76,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 1129,
+        "newTime": 1112,
+        "score": 5.76
+      }
+    ]
+  },
+  {
+    "personId": 79,
+    "name": "Daniel Tsai",
+    "wcaId": "2011TSAI01",
+    "totalScore": 4.83,
+    "improvements": [
+      {
+        "eventId": "333",
+        "format": "average",
+        "oldTime": 1434,
+        "newTime": 1414,
+        "score": 4.83
+      }
+    ]
+  },
+  {
+    "personId": 11,
+    "name": "Jack Maddigan",
+    "wcaId": "2020MADD02",
+    "totalScore": 4.39,
+    "improvements": [
+      {
+        "eventId": "222",
+        "format": "single",
+        "oldTime": 115,
+        "newTime": 112,
+        "score": 4.39
+      }
+    ]
+  }
+]

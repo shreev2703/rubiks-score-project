@@ -6,6 +6,8 @@ Popularity Weight: It gives a higher weight to PRs in more popular events (like 
 
 Difficulty Weight: It applies a manual bonus multiplier for events that are generally considered more difficult, such as 6x6x6 or Blindfolded events.
 
+High-Skill Multiplier: Gives more weight to improvements made at a higher skill level, recognizing that improving from the 95th to 98th percentile is far more difficult than improving from the 50th to 53rd.
+
 After calculating a score for every single PR, the script does two things:
 It adds up the scores for each person to get their total improvement score.
 It prints a detailed, sorted list to the terminal, showing the final ranking and a breakdown of each person's improvements.

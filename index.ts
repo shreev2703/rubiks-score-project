@@ -167,10 +167,13 @@ async function analyzeImprovements(wcif: WCIF): Promise<Map<number, PersonScore>
     if (newP <= oldP) continue;
 
     const zDiff = percentileToZScore(newP) - percentileToZScore(oldP);
-    const score = zDiff * weightCompetitors(total) * (eventWeights[eventId] || 1) * 100;
+    
+    const skillMultiplier = 1 + newP;
+    
+    const score = zDiff * weightCompetitors(total) * (eventWeights[eventId] || 1) * skillMultiplier * 100;
 
     const person = wcif.persons.find(p => p.registrantId === personId);
-    console.log(`\nImprovement for ${person?.name} in ${eventId} (${format}):\n  ${old / 100}s -> ${newTime / 100}s\n  Percentile: ${(oldP * 100).toFixed(2)}% -> ${(newP * 100).toFixed(2)}%\n  Score: +${score.toFixed(2)}`);
+    console.log(`\nImprovement for ${person?.name} in ${eventId} (${format}):\n  ${(old / 100).toFixed(2)}s -> ${(newTime / 100).toFixed(2)}s\n  Percentile: ${(oldP * 100).toFixed(2)}% -> ${(newP * 100).toFixed(2)}%\n  Score: +${score.toFixed(2)}`);
 
     if (!scores.has(personId)) {
       scores.set(personId, { totalScore: 0, improvements: [] });
